@@ -9,7 +9,7 @@
     - 孙科, ajksunke@pku.edu.cn
     - 徐举, xuju@pku.edu.cn
 
-- **课程时间:** 周二: 3:10-5:00 pm.
+- **课程时间:** 周二: 3:10-6:00 pm.
 
 - **课程地点:**  目前online
 
