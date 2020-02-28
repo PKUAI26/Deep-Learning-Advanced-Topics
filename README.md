@@ -25,23 +25,26 @@
 - 要求学生深入参与对前沿研究话题的文章阅读与演讲展示，大作业包括深度学习模型的基础理论分析、计算机视觉、自然语言处理或者游戏AI方面的应用。
 
 
-### Grading
+### 评分标准
 
 **平时作业** (40%): 
 
 **期末项目** (60%):
 
 ---
-### Schedule (subject to change)
+### 课程安排
 
 #### Week 1
 - Tue 02/18: 课程信息介绍
 #### Week 2
 - Tue 02/25: Semi-supervised and Self-supervised Learning
-    - [刘奕好](slides/topci1/lyh.pptx)
+    - [刘奕好](slides/topic1/lyh.pptx)
     - [赵光香](slides/topic1/zgx.pptx)
     - [常瑞恒](slides/topic1/cyh.pptx)
     - [张铎](slides/topic1/zd.pptx)
+
+### 参考文献
+- [Semi-supervised and Self-supervised Learning](references/topic1.docx)
 
 <!-- #### Week 3
 - Mon 9/23: Regression
