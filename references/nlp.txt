@@ -1,0 +1,23 @@
+Deep contextualized word representations 
+On the Downstream Performance of Compressed Word Embeddings
+Spherical Text Embedding
+BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding 
+XLNet: Generalized Autoregressive Pretraining for Language Understanding
+ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks
+A Tensorized Transformer for Language Modeling
+Levenshtein Transformer
+ALBERT: A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS
+Reformer: The Efficient Transformer 
+Language Models are Unsupervised Multitask Learners
+No Training Required: Exploring Random Encoders for Sentence Classification
+To Tune or Not to Tune? Adapting Pretrained Representations to Diverse Tasks 
+Ordered Neurons: Integrating Tree Structures Into Recurrent Neural Networks
+Ordered Memory
+Embedding Symbolic Knowledge into Deep Networks
+Mogrifier LSTM 
+ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators
+The Curious Case of Neural Text Degeneration
+Analogies Explained: Towards Understanding Word Embeddings
+Linguistic Knowledge and Transferability of Contextual Representations
+Training Language GANs from Scratch
+Interpreting and improving natural-language processing (in machines) with natural language-processing (in the brain)
