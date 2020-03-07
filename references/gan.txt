@@ -1,0 +1,35 @@
+Generative models: theory and algorithms 
+GAN: 
+A review on generative adversarial networks: algorithms, theory and applications
+Generative adversarial networks
+Wasserstein GAN
+Infogan: Interpretable representation learning by information maximizing generative adversarial nets 
+f-gan: Training generative neural samplers using variational divergence minimization 
+BEGAN: Boundary Equilibrium Generative Adversarial Networks
+Energy-based Generative Adversarial Network
+Adversarially Learned Inference
+On Convergence and Stability of GANs
+Stabilizing Training of Generative Adversarial Networks through Regularization
+Which Training Methods for GANs do actually Converge?
+Approximation and Convergence Properties of Generative Adversarial Learning
+Unrolled generative adversarial networks 
+Least squares generative adversarial networks 
+The mechanics of n-player differentiable games
+Non-convex min-max optimization: Provable algorithms and applications in machine learning.
+On the convergence and robustness of training gans with regularized optimal transport
+Adversarial Lipschitz Regularization
+What is local optimality in nonconvex-nonconcave minimax optimization? 
+On gradient descent ascent for nonconvex-concave minimax problems.
+Robustness of conditional GANs to noisy labels
+
+Flow-based methods and others:
+Density estimation using Real NVP
+Improved variational inference with inverse autoregressive flow
+Masked autoregressive flow for density estimation
+Glow: Generative Flow with Invertible 1×1 Convolutions
+Neural Spline Flows
+Pixel recurrent neural networks
+Conditional image generation with PixelCNN decoders
+Autoregressive Energy Machines
+A tutorial on energy-based learning
+Auto-encoding variational Bayes

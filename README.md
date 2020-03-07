@@ -42,10 +42,13 @@
     - [赵光香](slides/topic1/zgx.pptx)
     - [常瑞恒](slides/topic1/cyh.pptx)
     - [张铎](slides/topic1/zd.pptx)
+- Tue 03/03: Transfer learning
+    - [何旭峥](slides/topic2/1.pptx)
 
 ### 参考文献
 - [Semi-supervised and Self-supervised Learning](references/topic1.docx)
-
+- [NLP](references/nlp.txt)
+- [Generative models](references/gan.txt)
 <!-- #### Week 3
 - Mon 9/23: Regression
     - [Lecture 4](slides/regression.pdf)
