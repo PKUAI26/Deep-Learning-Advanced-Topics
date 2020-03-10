@@ -44,6 +44,10 @@
     - [张铎](slides/topic1/zd.pptx)
 - Tue 03/03: Transfer learning
     - [何旭峥](slides/topic2/1.pptx)
+- Tue 03/10: NLP
+    - [阮端祥](slides/topic3/NLPpre1.pptx)
+    - [刘畅](slides/topic3/NLPpre2.pptx)
+    - [乐然](slides/topic3/NLPpre3.pptx)
 
 ### 参考文献
 - [Semi-supervised and Self-supervised Learning](references/topic1.docx)
