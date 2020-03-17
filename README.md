@@ -48,6 +48,12 @@
     - [阮端祥](slides/topic3/NLPpre1.pptx)
     - [刘畅](slides/topic3/NLPpre2.pptx)
     - [乐然](slides/topic3/NLPpre3.pptx)
+- Tue 03/17: GAN
+    - [吴思琪](slides/topic4/wsq.ppt)
+    - [宁顺磊](slides/topic4/nsl.pptx)
+    - [柴劲航](slides/topic4/cjh.pptx)
+    - [昌珺涵](slides/topic4/chjh.pptx)
+    - [聂涵韬](slides/topic4/nht.pptx)
 
 ### 参考文献
 - [Semi-supervised and Self-supervised Learning](references/topic1.docx)
