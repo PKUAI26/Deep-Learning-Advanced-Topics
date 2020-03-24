@@ -1,0 +1,18 @@
+Generative models: applications
+A review on generative adversarial networks: algorithms, theory and applications (please choose at 15 papers from the applications mentioned in this survey, at least to cover the image manipulations, video, sequential data, medical domains, etc.)
+A Style-Based Generator Architecture for Generative Adversarial Networks
+Large Scale GAN Training for High Fidelity Natural Image Synthesis
+Progressive Growing of GANs for Improved Quality, Stability, and Variation
+Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
+Image-to-Image Translation with Conditional Adversarial Networks
+Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
+Conditional Generative Adversarial Nets
+Irgan: A minimax game for unifying generative and discriminative information retrieval models
+Generating Classical Chinese Poems via Conditional Variational Autoencoder and Adversarial Training
+Learning Discourse-level Diversity for Neural Dialog Models Using Conditional VAE
+T-CVAE: Transformer-Based Conditioned Variational Autoencoder for Story
+Long and Diverse Text Generation with Planning-based Hierarchical Variational Model
+Improve Diverse Text Generation by Self Labeling Conditional Variational Auto Encoder
+Draft and Edit: Automatic Storytelling Through Multi-Pass Hierarchical Conditional Variational Autoencoder
+D2D-TM: a cycle VAE-GAN for multi-domain collaborative filtering
+CosmoVAE: variational autoencoder for CMB image inpainting

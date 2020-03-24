@@ -1,0 +1,24 @@
+On large-batch training for deep learning: Generalization gap and sharp minima
+Deep learning without poor local minima
+Essentially no barriers in neural network energy landscape
+Explaining landscape connectivity of low-cost solutions for multilayer nets
+Pure and Spurious Critical Points: a Geometric Study of Linear Networks
+Spurious Valleys in One-hidden-layer Neural Network Optimization Landscapes
+Topology and Geometry of Half-Rectified Networks Optimization
+Spurious local minima are common in two-layer relu neural networks
+Exponentially vanishing sub-optimal local minima in multilayer neural networks
+Identity matters in deep learning
+Visualizing the loss landscape of neural nets
+Adding one neuron can eliminate all bad local minima
+On the loss landscape of a class of deep neural networks with no bad local valleys
+Depth with nonlinearity creates no bad local minima in ResNets
+Effect of depth and width on local minima in deep learning
+Elimination of all bad local minima in deep learning
+Over-parameterized deep neural networks have no strict local minima for any continuous activations
+How regularization affects the critical points in linear networks
+Deep Neural Networks with Multi-Branch Architectures Are Intrinsically Less Non-Convex
+Understanding the loss surface of single-layered neural networks for binary classification
+The Landscape of Non-convex Empirical Risk with Degenerate Population Risk 
+Large Scale Structure of Neural Network Loss Landscapes
+Geometric Analysis of Nonconvex Optimization Landscapes for Overcomplete Learning
+A Closer Look at the Optimization Landscapes of Generative Adversarial Networks

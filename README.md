@@ -54,11 +54,18 @@
     - [柴劲航](slides/topic4/cjh.pptx)
     - [昌珺涵](slides/topic4/chjh.pptx)
     - [聂涵韬](slides/topic4/nht.pptx)
+- Tue 03/24: GAN's applications
+    - [薛犇](slides/topic5/xb.pptx)
+    - [杨少萱](slides/topic5/ysx.pptx)
+    - [黄道吉](slides/topic5/hdj.pptx)
+    - [吴文琴](slides/topic5/wwq.ppt)
+    - [张钊森](slides/topic5/zzs.ppt.zip)
 
 ### 参考文献
 - [Semi-supervised and Self-supervised Learning](references/topic1.docx)
 - [NLP](references/nlp.txt)
-- [Generative models](references/gan.txt)
+- [Generative models: theory and algorithms ](references/gan.txt)
+- [Generative models: applications](references/gan2.txt)
 <!-- #### Week 3
 - Mon 9/23: Regression
     - [Lecture 4](slides/regression.pdf)

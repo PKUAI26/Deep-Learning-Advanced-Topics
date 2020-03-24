@@ -1,5 +1,3 @@
-Generative models: theory and algorithms 
-GAN: 
 A review on generative adversarial networks: algorithms, theory and applications
 Generative adversarial networks
 Wasserstein GAN
