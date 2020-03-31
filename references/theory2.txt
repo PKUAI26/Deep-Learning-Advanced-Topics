@@ -1,0 +1,28 @@
+Convergence analysis of two-layer neural networks with relu activation
+Gradient descent provably optimizes over-parameterized neural networks
+Recovery guarantees for one-hidden-layer neural networks
+The shattered gradients problem: If resnets are the answer, then what is the question?
+On the optimization of deep networks: Implicit acceleration by overparameterization
+A convergence analysis of gradient descent for deep linear neural networks
+Fine-grained analysis of optimization and generalization for overparameterized two-layer neural networks
+When is a convolutional filter easy to learn?
+Algorithmic regularization in over-parameterized matrix sensing and neural networks with quadratic activations
+Gradient descent learns one-hidden-layer cnn: Don't be afraid of spurious local minima
+Learning one-hidden-layer neural networks with landscape design
+Stochastic gradient descent optimizes over-parameterized deep relu networks
+Algorithmic regularization in learning deep homogeneous models: Layers are automatically balanced
+How does batch normalization help optimization?
+Learning overparameterized neural networks via stochastic gradient descent on structured data
+Understanding batch normalization
+Fixup initialization: Residual learning without normalization
+Training over-parameterized deep resnet is almost as easy as training a two-layer network
+Hitting Time of Stochastic Gradient Langevin Dynamics to Stationary Points: A Direct Analysis
+The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks
+Why Gradient Clipping Accelerates Training: A Theoretical Justification for Adaptivity 
+Geometric Analysis of Nonconvex Optimization Landscapes for Overcomplete Learning
+Gradient Descent Maximizes the Margin of Homogeneous Neural Networks
+White Noise Analysis of Neural Networks 
+The Anisotropic Noise in Stochastic Gradient Descent: Its Behavior of Escaping from Sharp Minima and Regularization Effects
+A tail-index analysis of stochastic gradient noise in deep neuralnetworks
+On the heavy-tailed theory of stochasticgradient descent for deep neural networks
+The Implicit Regularization of Stochastic Gradient Flow for Least Squares

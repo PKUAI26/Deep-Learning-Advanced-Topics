@@ -60,12 +60,19 @@
     - [黄道吉](slides/topic5/hdj.pptx)
     - [吴文琴](slides/topic5/wwq.ppt)
     - [张钊森](slides/topic5/zzs.ppt.zip)
+- Tue 03/31: Deep learning theory: loss landscape
+    - [罗月](slides/topic6/ly.pptx)
+    - [周传赛](slides/topic6/zcs.pptx)
+    - [韩洋](slides/topic6/hy.pptx)
+    - [肖天南](slides/topic6/xtn.pptx)
 
 ### 参考文献
 - [Semi-supervised and Self-supervised Learning](references/topic1.docx)
 - [NLP](references/nlp.txt)
 - [Generative models: theory and algorithms ](references/gan.txt)
 - [Generative models: applications](references/gan2.txt)
+- [Deep learning theory: loss landscape](references/theory.txt)
+- [Deep learning theory: optimization](references/theory2.txt)
 <!-- #### Week 3
 - Mon 9/23: Regression
     - [Lecture 4](slides/regression.pdf)
