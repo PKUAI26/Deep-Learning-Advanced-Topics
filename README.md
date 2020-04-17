@@ -66,11 +66,12 @@
     - [韩洋](slides/topic6/hy.pptx)
     - [肖天南](slides/topic6/xtn.pptx)
 - Tue 04/07: Deep learning theory: optimization
-	- [王恒睿](slides/topic8/whr.pptx)
-	- [闵泽平](slides/topic8/mzp.pptx)
-	- [朱桢源](slides/topic8/zzy.pptx)
-	- [沈剑豪](slides/topic8/sjh.pptx)
-	- [张伊凡](slides/topic8/zyf.pptx) 
+	- [闵泽平](slides/topic7/mzp.pptx)
+	- [朱桢源](slides/topic7/zzy.pptx)
+	- [沈剑豪](slides/topic7/sjh.pptx)
+- Tue 04/14: Deep learning theory: optimization dynamics
+    - [王恒睿](slides/topic8/whr.pptx)
+    - [张伊凡](slides/topic8/zyf.pptx) 
 
 ### 参考文献
 - [Semi-supervised and Self-supervised Learning](references/topic1.docx)
