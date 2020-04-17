@@ -65,6 +65,12 @@
     - [周传赛](slides/topic6/zcs.pptx)
     - [韩洋](slides/topic6/hy.pptx)
     - [肖天南](slides/topic6/xtn.pptx)
+- Tue 04/07: Deep learning theory: optimization
+	- [王恒睿](slides/topic8/whr.pptx)
+	- [闵泽平](slides/topic8/mzp.pptx)
+	- [朱桢源](slides/topic8/zzy.pptx)
+	- [沈剑豪](slides/topic8/sjh.pptx)
+	- [张伊凡](slides/topic8/zyf.pptx) 
 
 ### 参考文献
 - [Semi-supervised and Self-supervised Learning](references/topic1.docx)
@@ -73,51 +79,5 @@
 - [Generative models: applications](references/gan2.txt)
 - [Deep learning theory: loss landscape](references/theory.txt)
 - [Deep learning theory: optimization](references/theory2.txt)
-<!-- #### Week 3
-- Mon 9/23: Regression
-    - [Lecture 4](slides/regression.pdf)
-#### Week 5
-- Mon 10/7: Classification1
-    - [Lecture 5](slides/classification+1.pdf)
-- Thu 10/10: Classification2
-    - [Lecture 6](slides/classification+1(1).pdf)
-#### Week 6
-- Mon 10/14: Classification3
-    - [Lecture 7](slides/classification+2.pdf)
-- Thu 10/17: Ensemble
-    - [Lecture 8](slides/ensemble.pdf)
-#### Week 7
-- Mon 10/21: Clustering
-    - [Lecture 9](slides/clustering.pdf)
-- Thu 10/24: Dimension Reduction1
-    - [Lecture 10](slides/dimensionality+reduction.pdf)
-#### Week 8
-- Mon 10/28: Dimension Reduction2
-    - [Lecture 11](slides/dimensionality+reduction(1).pdf)
-#### Week 9
-- Mon 11/4: Graphical Models1
-    - [Lecture 12](slides/GM_1.pdf)
-- Thu 11/7: Graphical Models2
-    - [Lecture 13](slides/GM_2.pdf)
-#### Week 10
-- Mon 11/11: Graphical Models3
-    - [Lecture14](slides/GM_3_4.pdf)
-#### Week 11
-- Mon 11/18: Graphical Models4
-- Thu 11/21: Graphical Models5
-    - [Lecture15](slides/GM_4_Sampling.pdf)
-#### Week 12
-- Mon 11/25: Topic Model
-    - [Lecture16](slides/topic+models.pdf)
-#### Week 13
-- Mon 12/2: Introduction to Deep Learning
-    - [Lecture17](slides/introduction+to+deep+learning.pdf)
-- Thu 12/7
-#### Week 14
-- Mon 12/9: Mid-term Exam
-#### Week 15
-- Mon 12/16
-- Thu 12/19
-#### Week 16
-- Mon 12/23
- -->
+- [Deep learning theory connection](references/theory3.txt)
+- [Robustness](references/robustness.txt)

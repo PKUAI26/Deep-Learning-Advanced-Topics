@@ -1,0 +1,40 @@
+1.Neural Tangent Kernel: Convergence and Generalization in Neural Networks
+2.Wide neural networks of any depth evolve as linear models under gradient descent
+3.On exact computation with an infinitely wide neural net
+4.Surprises in high-dimensional ridgeless least squares interpolation
+5.Scaling limits of wide neural networks with weight sharing: Gaussian process behavior, gradient independence, and neural tangent kernel derivation
+6.Mean-field theory of two-layers neural networks: dimension-free bounds and kernel limit
+7.Linearized two-layers neural networks in high dimension
+8.On the power and limitations of random features for understanding neural networks
+9.A generalization theory of gradient descent for learning over-parameterized deep relu networks
+10.The generalization error of random features regression: Precise asymptotics and double descent curve
+11.An improved analysis of training over-parameterized deep neural networks
+12.Generalization bounds of stochastic gradient descent for wide and deep neural networks
+13.Training neural networks as learning data-adaptive kernels: Provable representation and approximation benefits
+14.A comparative analysis of the optimization and generalization property of two-layer neural network and random feature models under gradient descent dynamics
+15.What Can ResNet Learn Efficiently, Going Beyond Kernels?
+16.Regularization matters: Generalization and optimization of neural nets vs their induced kernel 
+17.On the inductive bias of neural tangent kernels
+18.Deep learning theory review: An optimal control and dynamical systems perspective
+19.On Learning Over-parameterized Neural Networks: A Functional Approximation Perspective
+20.Fast Convergence of Natural Gradient Descent for Over-Parameterized Neural Networks
+21.Uniform convergence may be unable to explain generalization in deep learning
+22.Limitations of Lazy Training of Two-layers Neural Network
+23.Implicit Regularization of Random Feature Models
+24.Learning and generalization in overparameterized neural networks, going beyond two layers
+25.Generalization of Two-layer Neural Networks: An Asymptotic Viewpoint
+26.Truth or backpropaganda? An empirical investigation of deep learning theory 
+27.https://openai.com/blog/deep-double-descent/
+28.Deep Double Descent: Where Bigger Models and More Data Hurt
+29.Optimal Regularization Can Mitigate Double Descent
+30.Double Trouble in Double Descent: Bias and Variance (s) in the Lazy Regime
+31.Rethinking Bias-Variance Trade-off for Generalization of Neural Networks
+32.More Data Can Hurt for Linear Regression: Sample-wise Double Descent
+33.Reconciling modern machine-learning practice and the classical bias–variance trade-off
+34.Two models of double descent for weak features
+35.Does data interpolation contradict statistical optimality?
+36.Overfitting or perfect fitting? risk bounds for classification and regression rules that interpolate
+37.To understand deep learning we need to understand kernel learning
+38.Improved Sample Complexities for Deep Networks and Robust Classification via an All-Layer Margin
+39.Large Margin Deep Networks for Classification
+40.Predicting the Generalization Gap in Deep Networks with Margin Distributions

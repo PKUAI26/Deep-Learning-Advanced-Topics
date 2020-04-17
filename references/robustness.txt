@@ -1,0 +1,57 @@
+Intriguing properties of neural networks 
+Towards evaluating the robustness of neural networks 
+Adversarial Patch 
+Fooling automated surveillance cameras: adversarial patches to attack person detection 
+Spatially transformed adversarial examples 
+Synthesizing Robust Adversarial Examples 
+Generating Natural Language Adversarial Examples 
+Imperceptible, Robust, and Targeted Adversarial Examples for Automatic Speech Recognition 
+Adversarial Examples Are Not Bugs, They Are Features
+Robustness May Be at Odds with Accuracy
+Exploring the Landscape of Spatial Robustness,
+Skip Connections Matter: On the Transferability of Adversarial Examples Generated with ResNets
+
+Transferability in Machine Learning: from Phenomena to Black-Box Attacks using Adversarial Samples 
+Black-box adversarial attacks with limited queries and information 
+Practical black-box attacks with gradient-free optimization 
+Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples (also including the attack methods mentioned in this paper)
+Constructing Unrestricted Adversarial Examples with Generative Models
+
+Parseval networks: Improving robustness to adversarial example 
+Improving the adversarial robustness and interpretability of deep neural networks by regularizing their input gradients 
+Adversarial robustness through local linearization 
+
+Towards Deep Learning Models Resistant to Adversarial Attacks 
+Certifiable Distributional Robustness with Principled Adversarial Training 
+Unlabeled data improves adversarial robustness 
+Max-Margin Adversarial (MMA) Training: Direct Input Space Margin Maximization through Adversarial Training
+
+Theoretically Principled Trade-off between Robustness and Accuracys
+Bilateral Adversarial Training: Towards Fast Training of More Robust Models Against Adversarial Attacks
+On Robustness of Neural Ordinary Differential Equations
+Bayesian Adversarial Learning 
+You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle 
+Adversarially robust transfer learning
+Rademacher Complexity for Adversarially Robust Generalization 
+Adversarial Training and Provable Defenses: Bridging the Gap 
+Certified robustness to adversarial word substitutions 
+
+Neural Network Branching for Neural Network Verification 
+https://verifieddeeplearning.com/
+Training for Faster Adversarial Robustness Verification via Inducing ReLU Stability
+
+
+Poisoning attacks against support vector machines 
+Using machine teaching to identify optimal training-set attacks on machine learners 
+Towards poisoning of deep learning algorithms with back-gradient optimization 
+Understanding black-box predictions via influence functions 
+Badnets: Identifying vulnerabilities in the machine learning model supply chain 
+Trojaning Attack on Neural Networks 
+Poison frogs! targeted clean-label poisoning attacks on neural networks 
+NIC: Detecting Adversarial Samples with Neural Network Invariant Check ing 
+Strip: A defence against trojan attacks on deep neural networks 
+Sentinet: Detecting physical attacks against deep learning systems 
+Fine-pruning: Defending against backdooring attacks on deep neural networks 
+Learning from untrusted data 
+Certified defenses for data poisoning attacks 
+Spectral signatures in backdoor attacks
