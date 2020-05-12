@@ -1,0 +1,44 @@
+Geometric deep learning: going beyond Euclidean data.  
+A Comprehensive Survey on Graph Neural Networks.  
+Relational inductive biases, deep learning, and graph networks 
+Attention models in graphs.  
+Deep learning on graphs: A survey.  
+Graph Neural Networks: A Review of Methods and Applications  
+Learning steady-states of iterative algorithms over graphs
+Convolutional neural networks on graphs with fast localized spectral filtering
+Semi-supervised classification with graph convolutional networks
+Simplifying Graph Convolutional Networks
+DIFFUSION SCATTERING TRANSFORMS ON GRAPHS
+Diffusion-convolutional neural networks
+Structure-Aware Convolutional Neural Networks
+Predict then Propagate: Graph Neural Networks meet Personalized PageRank
+Representation learning on graphs with jumping knowledge networks
+Graph U-nets
+MixHop: Higher-Order Graph Convolutional Architectures via Sparsified Neighborhood Mixing
+Graph Attention Networks
+Graph Representation Learning via Hard and Channel-Wise Attention Networks
+Understanding Attention and Generalization in Graph Neural Networks
+Learning convolutional neural networks for graphs
+Large-Scale Learnable Graph Convolutional Networks
+Inductive representation learning on large graphs
+Stochastic Training of Graph Convolutional Networks with Variance Reduction
+FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling
+Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks
+Self-Attention Graph Pooling
+Contextual graph markov model: A deep and generative approach to graph processing
+Deeper insights into graph convolutional networks for semi-supervised learning
+How powerful are graph neural networks?
+Can GCNs Go as Deep as CNNs?
+Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology
+Variational graph auto-encoders
+Link Prediction Based on Graph Neural Networks
+Deep graph infomax
+Learning deep generative models of graphs
+Netgan: Generating graphs via random walks
+Graphrnn: A deep generative model for graphs
+D-VAE: A Variational Autoencoder for Directed Acyclic Graphs
+Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs
+Structural-rnn: Deep learning on spatio-temporal graphs
+Diffusion convolutional recurrent neural network: Data-driven traffic forecasting
+Spatio-temporal graph convolutional networks: A deep learning framework for traffic forecasting.
+Graph wavenet for deep spatial-temporal graph modeling

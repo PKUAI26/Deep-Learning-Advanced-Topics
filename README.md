@@ -94,3 +94,4 @@
 - [Deep learning theory connection](references/theory3.txt)
 - [Robustness](references/robustness.txt)
 - [Interpretability](references/interpretability.txt)
+- [GNN](references/gnn.txt)
