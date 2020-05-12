@@ -1,0 +1,41 @@
+Mathematical Reasoning in Latent Space 
+Towards A Rigorous Science of Interpretable Machine Learning", Finale Doshi-Velez ∗ and Been Kim
+Towards Automatic Concept-based Explanations
+Evaluating Feature Importance Estimates
+Interpreting Black Box Predictions using Fisher Kernels
+To Trust Or Not To Trust A Classifier
+Sanity Checks for Saliency Maps
+Explaining Classifiers with Causal Concept Effect (CaCE)
+Visual Interpretability for Deep Learning: a Survey Network Dissection: Quantifying Interpretability of Deep Visual Representations
+Interpretable Basis Decomposition for Visual Explanation.
+Interpretable Representation Learning for Visual Intelligence (phd thesis, Bolei Zhou)
+Explainable machine learning in deployment
+Hold me tight! Influence of discriminative features on deep network boundaries 
+High Frequency Component Helps Explain the Generalization of Convolutional Neural Networks
+On the Spectral Bias of Neural Networks
+Interpreting CNN knowledge via an Explanatory Graph
+Interpreting CNNs via Decision Trees
+Knowledge consistency between neural networks and beyond
+Unsupervised Learning of Neural Networks to Explain Neural Networks
+WHAT INFORMATION DOES A RESNET COMPRESS?
+Interpretable Convolutional Neural Networks
+Towards Robust Interpretability with Self-Explaining Neural Networks
+SAM: The Sensitivity of Attribution Methods to Hyperparameters, CVPR 2020
+On the Robustness of Interpretability Methods, ICML workshop 2018
+Game-Theoretic Interpretability for Temporal Modeling
+Towards robust, locally linear deep networks
+Are All Layers Created Equal?
+Functional transparency for structured data: a game-theoretic approach.
+Towards robust interpretability with self-explaining neural networks.
+Is Attention Interpretable?
+Interpreting and improving natural-language processing with natural language-processing
+Improving Language Understanding by Generative Pre-Training
+A causal framework for explaining the predictions of black-box sequence-to-sequence models.
+Attacks Meet Interpretability: Attribute-steered Detection of Adversarial Samples
+Leveraging Interpretability for Improved Adversarial Learning
+On the Connection Between Adversarial Robustness and Saliency Map Interpretability
+Interpreting Adversarially Trained Convolutional Neural Networks 
+Adversarial Detection with Model Interpretation
+Towards Understanding Learning Representations: To What Extent Do Different Neural Networks Learn the Same Representation
+On the information bottleneck theory of deep learning
+Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations

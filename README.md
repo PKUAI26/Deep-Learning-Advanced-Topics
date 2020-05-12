@@ -72,7 +72,18 @@
 - Tue 04/14: Deep learning theory: optimization dynamics
     - [王恒睿](slides/topic8/whr.pptx)
     - [张伊凡](slides/topic8/zyf.pptx) 
-
+- Tue 04/21: Deep learning theory connection
+	- [杨文昊](slides/topic9/ywh.pdf)
+	- [谢广增](slides/topic9/xgz.pdf)
+	- [林大超](slides/topic9/ldc.pptx)
+	- [周扩](slides/topic9/zk.pdf)
+- Tue 04/28: Defense and Adversarial Training
+	- [王泽昊](slides/topic10/wzh.pdf)
+- Tue 05/12: Robustness
+	- [周浩成](slides/topic11/zhc.pdf)
+	- [杨埔](slides/topic11/yp.pdf)
+	- [冯韫禛](slides/topic11/fyz.pdf)
+ 
 ### 参考文献
 - [Semi-supervised and Self-supervised Learning](references/topic1.docx)
 - [NLP](references/nlp.txt)
@@ -82,3 +93,4 @@
 - [Deep learning theory: optimization](references/theory2.txt)
 - [Deep learning theory connection](references/theory3.txt)
 - [Robustness](references/robustness.txt)
+- [Interpretability](references/interpretability.txt)
