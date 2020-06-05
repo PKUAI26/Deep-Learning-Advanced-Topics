@@ -80,7 +80,7 @@
 - Tue 04/28: Defense and Adversarial Training
 	- [王泽昊](slides/topic10/wzh.pdf)
 - Tue 05/12: Robustness
-	- [周浩成](slides/topic11/zhc.pdf)
+	- [居浩成](slides/topic11/zhc.pdf)
 	- [杨埔](slides/topic11/yp.pdf)
 	- [冯韫禛](slides/topic11/fyz.pdf)
  
