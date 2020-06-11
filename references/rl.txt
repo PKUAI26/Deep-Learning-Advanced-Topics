@@ -1,0 +1,32 @@
+Reinforcement learning
+You need to first provide introduction to basic rl algorithms, including DQN, policy gradient, actor-critic, trpo, ppo and ddpg.
+Implementation Matters in Deep RL: A Case Study on PPO and TRPO 
+Soft Actor-Critic Algorithms and Applications
+Posterior sampling for multi-agent reinforcement learning: solving extensive games with imperfect information 
+
+FeUdal Networks (FUN) for Hierarchical Reinforcement Learning
+Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation
+Meta Learning Shared Hierarchies
+Hierarchical Reinforcement Learning via Advantage-Weighted Information Maximization
+https://thegradient.pub/the-promise-of-hierarchical-reinforcement-learning/
+
+
+Sample Efficient Actor-Critic with Experience Replay
+ Sample-Efficient Reinforcement Learning with Stochastic Ensemble Value Expansion
+Harnessing Structures for Value-Based Planning and Reinforcement Learning 
+SEED RL: Scalable and Efficient Deep-RL with Accelerated Central Inference 
+
+Generative adversarial imitation learning 
+Causal Confusion in Imitation Learning
+
+Model-Based Reinforcement Learning for Atari
+When to trust your model: Model-based policy optimization
+Modeling the Long Term Future in Model-Based Reinforcement Learning
+A Game Theoretic Framework for Model Based Reinforcement Learning
+Dynamics-Aware Unsupervised Discovery of Skills
+Grandmaster level in StarCraft II using multi-agent reinforcement learning
+A Closer Look at Deep Policy Gradients
+Meta-Q-Learning 
+Evolved Policy Gradients
+Learning to Reach Goals Without Reinforcement Learning
+Adversarial Policies: Attacking Deep Reinforcement Learning

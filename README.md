@@ -83,6 +83,22 @@
 	- [居浩成](slides/topic11/zhc.pdf)
 	- [杨埔](slides/topic11/yp.pdf)
 	- [冯韫禛](slides/topic11/fyz.pdf)
+- Tue 05/19: Interpretability
+   - [马晋](slides/topic12/mj.pdf)
+   - [叶德权](slides/topic12/ydq.pptx)
+   - [文中扬](slides/topic12/wzy.pptx)
+   - [钟易澄](slides/topic12/zyc.pdf)
+- Tue 05/26: GNN
+   - [孙浩轩](slides/topic13/shx.pdf)
+   - [习雨璇](slides/topic13/xyx.pptx)
+   - [靴骁勇](slides/topic13/xxy.pptx)
+   - [赵光智](slides/topic13/zgz.pptx)
+   - [田贵宇](slides/topic13/tgy.pptx)
+- Tue 06/02: Reinforcement Learning
+   - [潘学海](slides/topic14/pxh.pdf)
+   - [李子尧](slides/topic14/lzy.pdf)
+   - [陈伟杰](slides/topic14/cwj.pdf)
+   - [丁钊翰](slides/topic14/dzh.pdf)
  
 ### 参考文献
 - [Semi-supervised and Self-supervised Learning](references/topic1.docx)
@@ -95,3 +111,4 @@
 - [Robustness](references/robustness.txt)
 - [Interpretability](references/interpretability.txt)
 - [GNN](references/gnn.txt)
+- [Reinforcement learning](references/rl.txt)
